@@ -345,7 +345,7 @@ if not api_key:
     st.stop()
 
 client = OpenAI(api_key=api_key)
-MODEL = os.getenv("OPENAI_MODEL", "gpt-5-4-mini")
+MODEL = os.getenv("OPENAI_MODEL", "gpt-5.4-mini-2026-03-17")
 
 # Session state
 
