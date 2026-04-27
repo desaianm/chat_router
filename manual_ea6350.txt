@@ -1,0 +1,360 @@
+USER GUIDE 
+R 
+ 63 
+Model EA6350 
+
+ 
+2 
+ 
+Contents 
+Product Overview .........................................................................................................3 
+Top view ............................................................................................................................................................. 3 
+Back view ........................................................................................................................................................... 4 
+Setting Up: Basics ........................................................................................................5 
+Where to find more help ............................................................................................................................... 5 
+How to install your router ............................................................................................................................ 5 
+How to Use Linksys Smart Wi-Fi .............................................................................7 
+How to connect to Linksys Smart Wi-Fi.................................................................................................. 7 
+Device List......................................................................................................................................................... 8 
+Guest Access ................................................................................................................................................... 8 
+Parental Controls............................................................................................................................................ 9 
+Media Prioritization ........................................................................................................................................ 9 
+Speed Test ..................................................................................................................................................... 10 
+External Storage ......................................................................................................................................... 10 
+Connectivity .................................................................................................................................................. 11 
+Troubleshooting ........................................................................................................................................... 11 
+Wireless ........................................................................................................................................................... 12 
+Security ........................................................................................................................................................... 12 
+Troubleshooting ......................................................................................................... 13 
+Your router was not successfully set up ............................................................................................. 13 
+Your Internet cable is not plugged in message ................................................................................. 13 
+Cannot access your router message .................................................................................................... 15 
+After setup ..................................................................................................................................................... 16 
+The internet appears to be unavailable ............................................................................................... 16 
+Linksys Smart Wi-Fi does not open in your web browser .............................................................. 17 
+Specifications ............................................................................................................. 18 
+Linksys EA6350 .......................................................................................................................................... 18 
+Environmental ............................................................................................................................................... 18 
+ 
+
+ 
+3 
+ 
+Product Overview 
+Top view 
+ 
+Light— Stays on steadily while power is connected and following a successful Wi -Fi Protected Setup 
+connection. Flashes slowly during bootup, during firmware upgrades, and during a Wi -Fi Protected 
+Setup connection. Flashes quickly when there is a Wi-Fi Protected Setup error. 
+USB port—Connect and share USB drives on your n etwork or on the internet. 
+ 
+
+ 
+4 
+ 
+Back view 
+ 
+Adjustable antennas— For best performance, position the antennas vertically at a 90-degree angle. 
+Wi-Fi Protected Setup™ button —Press to configure wireless security on Wi -Fi Protected Setup-
+enabled network devices. 
+Reset button—Press and hold for until the power LED starts flashing to reset the router to factory 
+settings. You can also restore the factory settings using Linksys Smart Wi -Fi on the internet or mobile 
+app. 
+Ethernet ports—Connect ethernet cables to these blue gigabit (10/100/1000) ports, and to wired 
+devices on your network. 
+Note—For best performance, use CAT5e or higher rated cables on the ethernet ports. 
+Internet port—Connect an ethernet cable to this yellow gigabit (10/100/1000) port, and to a 
+broadband internet cable/DSL or fiber modem. 
+Note—For best performance, use CAT5e or higher rated cables on the ethernet ports. 
+Power port—Connect the included AC power adapter. 
+Power switch—Press | (on) to turn on the router. 
+
+ 
+5 
+ 
+Setting Up: Basics 
+Where to find more help 
+In addition to this user guide, you can find help at these locations: 
+• Linksys.com/support/EA6350 (documentation, downloads, FAQs, technical support, live chat, 
+forums) 
+• Linksys Smart Wi -Fi help (connect to Linksys Smart Wi -Fi, then click Help at the top of the 
+screen) 
+Note—Licenses and notices for third party software used in this product may be viewed on 
+http://support.linksys.com/en-us/license. Please contact http://support.linksys.com/en-
+us/gplcodecenter for questions or GPL source code requests. 
+How to install your router 
+1. If replacing an existing router, disconnect that router first. 
+2. Turn the antennas up and plug in your router to a power source. European versions: p ress the 
+power switch to | (on). 
+3. Connect the internet cable from your modem to the yellow Internet port on your router. Wait 
+until the indicator light on your router is solid. 
+4. Connect to the secure wireless name shown in the Quick Start Guide that came with your 
+router. (You can change the network name and password later.) If you need help connecting to 
+the network refer to your device documentation on the provided CD. 
+Note—You will not have i nternet access until router setup is complete. 
+5. Open a web browser to launch the Linksys Smart Wi-Fi Router setup instructions. If you don’t 
+see the instructions, type linksyssmartwifi.com in the address bar. 
+At the end of setup, follow the on-screen instructions to set up your Linksys Smart Wi-Fi account. Use 
+Linksys Smart Wi-Fi to configure your router from any computer with an Internet connection. 
+Manage your router’s settings: 
+• Change your router’s name and password 
+• Set up guest access 
+• Configure parental controls 
+• Connect devices to your network 
+• Test your internet connection speed 
+Note—As part of Linksys Smart Wi-Fi account setup, you will be sent a verification e-mail. From your 
+home network, click the link in the email to associate your router with the Linksys Smart Wi -Fi 
+account. 
+
+ 
+6 
+ 
+Tip—Print this page, then record your router and account settings in the table below as a reference. 
+Store your notes in a safe place. 
+2.4 GHz Network 
+Name 
+Network Password 
+5 GHz Network 
+Name 
+Network Password 
+Router Password 
+Guest Network 
+Name 
+Guest Network 
+Password 
+Linksys Smart Wi-Fi 
+Username 
+Linksys Smart Wi-Fi 
+Password 
+
+ 
+7 
+ 
+How to Use Linksys Smart Wi-Fi 
+You can configure your router from anywhere in the world by using Linksys Smart Wi -Fi, but you can 
+also configure your router directly from your home network. Linksys Smart Wi-Fi may be available for 
+your mobile device, as well. See your device’s app store for information. 
+How to connect to Linksys Smart Wi-Fi 
+To connect to Linksys Smart Wi-Fi: 
+1. Open your computer’s web browser. 
+2. Go to www.linksyssmartwifi.com and log in to your account. 
+ 
+If you can’t remember your password, click Forgot your password? and follow the on-screen 
+instructions to recover it. 
+
+ 
+8 
+ 
+Device List 
+Lets you display and manage all network devices connected to your rout er. You can view devices on 
+your main network and your guest network, or display information about each device. 
+ 
+Guest Access 
+Lets you configure and monitor a network that guests can use without accessing all of your network 
+resources. 
+ 
+
+ 
+9 
+ 
+Parental Controls 
+Lets you block web sites and set internet access times. 
+ 
+Media Prioritization 
+Lets you set which devices and applications have to p priority for your network traffic. 
+ 
+
+ 
+10 
+ 
+Speed Test 
+Lets you test your network’s internet connection speed. 
+ 
+External Storage 
+Lets you access an attached USB drive (not included) and set up file sharing, a media server, and 
+FTP access. 
+ 
+
+ 
+11 
+ 
+Connectivity 
+Lets you configure basic and advanced network settings. 
+ 
+Troubleshooting 
+Lets you diagnose problems with your router and check the status of the network. 
+ 
+
+ 
+12 
+ 
+Wireless 
+Lets you configure your router’s wireless network. You can change the security mode, password, 
+MAC filtering, and connect devices using Wi-Fi Protected Setup. 
+ 
+Security 
+Lets you configure your router’s wireless security. You can set up the firewall, VPN settings, and 
+make custom settings for applications and games. 
+ 
+ 
+
+ 
+13 
+ 
+Troubleshooting 
+You can find more help from our award-winning customer support at Linksys.com/support/EA6350. 
+Your router was not successfully set up 
+If Linksys Smart Wi-Fi did not complete the setup, you can try the following: 
+• Press and hold the Reset button on your router with a paperclip or pin until the LED 
+starts blinking (about 10 seconds). Install the router again. 
+ 
+ 
+• Temporarily disable your computer’s firewall (see the security software’s instructions 
+for help). Install the router again. 
+• If you have another computer, use that computer to install the router again. 
+Your Internet cable is not plugged in message 
+If you get a “Your Internet cable is not plugged in” message when trying to set up your router, follow 
+these troubleshooting steps. 
+• Make sure that an ethernet or internet cable (or a cable like the one supplied with your rout er) 
+is securely connected to the yellow Internet port on the back of the router and to the 
+appropriate port on your modem. This port on the modem is usually labeled e thernet, but may 
+be named Internet or WAN. 
+ 
+ 
+
+ 
+14 
+ 
+• Make sure that your modem is connected to power and is turned on. If it has a power switch, 
+make sure that it is set to the ON or l (as opposed to O) position. 
+• If your internet service is cable, verify that the cable modem’s CABLE port is connected to the 
+coaxial cable provided by your ISP. 
+ 
+• If your internet service is DSL, make sure that the DSL phone line is connected to the modem’s 
+DSL port. 
+ 
+• If your computer was previously connected to your modem with a USB cable, disconnect the 
+USB cable. 
+• Install the router again. 
+
+ 
+15 
+ 
+Cannot access your router message 
+To access your router, you must be connected to your own network. If you currently have wireless 
+internet access, the problem may be that you have accidentally connected to a different wireless 
+network. 
+To fix the problem on Windows computers, do the following*: 
+1. On your Windows desktop right-click the wireless icon in the system tray. 
+2. Click View Available Wireless Networks. A list of available networks will appear. 
+3. Click your own network name. Click Connect. In the example below, the computer was 
+connected to another wireless network named wraith_5GHz. The wireless network name of the 
+Linksys EA6350 router, Damaged_Beez2.4 in this example, is shown selected. 
+ 
+4. If you are prompted to enter a network key, type your password (Security Key) into the Network 
+key and Confirm network key fields. Click Connect. 
+5. Your computer connects to the network, and you should now be able to access the router. 
+*Depending on your version of Windows, there could be some differences in wording or icons i n these 
+steps. 
+
+ 
+16 
+ 
+To fix the problem on Mac computers, do the following: 
+1. In the menu bar across the top of the screen, click the Wi-Fi icon. A list of wireless networks will 
+appear. Linksys Smart Wi-Fi has automatically assigned your network a name. 
+2. Click you r own network name. Click Connect. In the example below, the computer was 
+connected to another wireless network named wraith_5GHz. The wireless network name of the 
+Linksys EA6350 router, Damaged_Beez2.4 in this example, is shown selected. 
+ 
+3. Click the wireless network name of your Linksys EA6350 router (BronzeEagle in the example). 
+4. Type your wireless network password (Security Key) into the Password field. Click OK. 
+After setup 
+The internet appears to be unavailable 
+If the internet has difficulty communicating with your router, the problem may appear as a “Cannot 
+find [internet address]” message in your Web browser. If you know that the internet address is 
+correct, and if you’ve tried several valid internet addresses with the same result, the message could 
+mean that there’s a problem with your ISP or modem communicating with your router. 
+Try the following: 
+• Make sure that the network and power cables are securely connected. 
+• Make sure that the power outlet that your router is connected to has power. 
+• Reboot your router. 
+• Contact your ISP and ask about outages in your area. 
+The most common method of troubleshooting your router is to turn it off, then back on again. Your 
+router can then reload its custom settings, and other devices (such as the modem) will be able to 
+rediscover the router and communicate with it. This process is called rebooting. 
+To reboot your router using the power cord, do the following: 
+1. Disconnect the power cord from the router and the modem. 
+2. Wait 10 seconds and reconnect the power cord to the modem. Make sure it has power. 
+3. Wait until the modem’s online indicator has stopped blinking (about two minutes). Reconnect 
+the power cord to the router. 
+
+ 
+17 
+ 
+4. Wait until the power indicator stops blinking. Wait two minutes before trying to connect to the 
+internet from a computer. 
+To reboot your router using Linksys Smart Wi-Fi, do the following: 
+1. Log in to Linksys Smart Wi-Fi. (See “How to connect to Linksys Smart Wi-Fi” on page 7.) 
+2. Under Router Settings, click Troubleshooting. 
+3. Click the Diagnostics tab. 
+4. Under Reboot, click Reboot . 
+ 
+5. Click Yes. The router will reboot. While the router is rebooting, all connected devices will lose 
+their internet connection, and will automatically reconnect when the router is ready again. 
+Linksys Smart Wi-Fi does not open in your web browser 
+The latest versions of Google ChromeTM, Firefox®, Safari® (for Mac® and iPad®), Microsoft Edge, 
+and Internet Explorer® version 8 and newer work with Linksys Smart Wi -Fi. 
+
+ 
+18 
+ 
+Specifications 
+Linksys EA6350 
+Model Name R63 
+Description Dual-Band AC Router with Gigabit and 1×USB 
+Model Number EA6350 
+Switch Port Speed 10/100/1000 Mbps (Gigabit Ethernet) 
+Radio Frequency 2.4 GHz and 5 GHz 
+# of Antennas 2 external adjustable antennas 
+Ports Power, USB (1), Internet, Ethernet (1-4), R-SMA 
+antenna (2) 
+Buttons Reset, Wi-Fi Protected Setup, Power 
+LEDs Top panel: Power 
+Back panel: Internet, Ethernet (1-4) 
+UPnP Supported 
+Security Features WPA2 
+Security Key Bits Up to 128-bit encryption 
+Storage File System Support FAT, NTFS, and HFS+ 
+Browser Support Internet Explorer 8 or higher, Firefox 4 or 
+higher, Google Chrome 10 or higher, and Safari 
+4 or higher 
+Environmental 
+Dimensions 7.56” x 1.47” x 4.68” (192 x 37 x118.8 mm) 
+Unit Weight 10.01 oz. (284 g) 
+Power 12V, 1.5A 
+Certifications FCC, IC, CE, Wi-Fi a/b/g/n/ac 
+Operating Temperature 32 to 104°F (0 to 40°C) 
+Storage Temperature -4 to 140°F (-20 to 60°C) 
+Operating Humidity 10% to 80% relative humidity, non-condensing 
+Storage Humidity 5% to 90% non-condensing 
+ 
+
+ 
+19 
+ 
+Notes: 
+For regulatory, warranty, and safety information, see the CD that came with your router or go to 
+Linksys.com/support/EA6350. 
+Specifications are subject to change without notice. 
+Maximum performance derived from IEEE Standard 802.11 specifications. Actual performance can 
+vary, including lower wireless network capacity, data throughput rate, range and coverage. 
+Performance depends on many factors, conditions and variables, including distance from the access 
+point, volume of network traffic, building materials and construction, operating system u sed, mix of 
+wireless products used, interference and other adverse conditions. 
+BELKIN, LINKSYS and many product names and logos are trademarks of the Belkin group of 
+companies. Third-party trademarks mentioned are the property of their respective owners. L icenses 
+and notices for third party software used in this product may be viewed here: 
+http://support.linksys.com/en-us/license. Please contact http://support.linksys.com/en-
+us/gplcodecenter for questions or GPL source code requests. 
+© 2019 Belkin International, Inc. and/or its affiliates. All rights reserved.
