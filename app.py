@@ -126,7 +126,7 @@ def _build_input(user_message: str) -> list:
     return [{"role": "user", "content": content}]
 
 # Page config and HTML styling
-st.set_page_config(page_title="WiFi Helper", page_icon="📶", layout="centered")
+st.set_page_config(page_title="WiFi Helper", page_icon="📶", layout="centered", initial_sidebar_state="expanded")
 
 st.markdown(
     """
@@ -148,10 +148,10 @@ st.markdown(
             radial-gradient(ellipse 600px 600px at 50% 100%, #0a1830 0%, transparent 70%) !important;
     }
 
-    /* hide Streamlit chrome */
-    header[data-testid="stHeader"],
+    /* hide Streamlit chrome but keep sidebar toggle visible */
     [data-testid="stToolbar"],
-    #MainMenu { visibility: hidden; height: 0; }
+    #MainMenu { visibility: hidden; }
+    header[data-testid="stHeader"] { background: transparent !important; box-shadow: none !important; }
     footer { display: none; }
 
     /* ── layout ── */
